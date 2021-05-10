@@ -1,0 +1,52 @@
+Structure,RN,Rarity,Size,Dimensions,Minted,Type?,Marketplace Price (approx)
+Grand Armor Shop,4,Epic,Grand,20x20,15,,"$1,200.00"
+Grand Forge,4,Epic,Grand,20x20,15,,"$1,200.00"
+Grand Granary,4,Epic,Grand,20x20,15,,$600.00
+Grand Stable,4,Epic,Grand,20x20,20,,$600.00
+Grand Storehouse,4,Epic,Grand,20x20,20,,"$1,200.00"
+Grand Weapon Shop,4,Epic,Grand,20x20,20,,"$1,200.00"
+Large Barn,3,Rare,Large,10x20,110,,$600.00
+Large Tavern,3,Rare,Large,10x20,110,,$600.00
+Large Archery,4,Epic,Large,10x20,20,,$600.00
+Large Armor Shop,4,Epic,Large,10x20,20,,$600.00
+Large Bakery,4,Epic,Large,10x20,20,,$600.00
+Large Forge,4,Epic,Large,10x20,20,,$600.00
+Large Granary,4,Epic,Large,10x20,20,,$600.00
+Large Mill,4,Epic,Large,10x20,20,,"$1,200.00"
+Large Weapon Shop,4,Epic,Large,10x20,20,,$600.00
+Large Woodshop,4,Epic,Large,10x20,20,,$600.00
+Large Stable,4,Epic,Large,10x20,30,,$600.00
+Large Storehouse,4,Epic,Large,10x20,30,,$600.00
+Grand Tavern,3,Rare,Majestic,20x20,75,,"$1,200.00"
+Majestic Armor Shop,5,Legendary,Majestic,20x40,5,,"$12,000.00"
+Majestic Forge,5,Legendary,Majestic,20x40,5,,"$12,000.00"
+Majesting Weapon Shop,5,Legendary,Majestic,20x40,5,,"$12,000.00"
+Majestic Stable,5,Legendary,Majestic,20x40,10,,"$12,000.00"
+Tavern,1,Common,Medium,10x10,1300,,$60.00
+Barn,1,Common,Medium,10x10,1400,,$60.00
+Archery,2,Uncommon,Medium,10x10,200,,$60.00
+Armor Shop,2,Uncommon,Medium,10x10,200,,$60.00
+Bakery,2,Uncommon,Medium,10x10,200,,$60.00
+Granary,2,Uncommon,Medium,10x10,200,,$60.00
+Mill,2,Uncommon,Medium,10x10,200,,$60.00
+Weapon Shop,2,Uncommon,Medium,10x10,200,,$60.00
+Woodshop,2,Uncommon,Medium,10x10,200,,$60.00
+Forge,2,Uncommon,Medium,10x10,300,,$60.00
+Stable,2,Uncommon,Medium,10x10,600,,$12.00
+Storehouse,2,Uncommon,Medium,10x10,600,,$12.00
+Hitching Post,1,Common,Small,5x5,1000,,$12.00
+Simple Storehouse,1,Common,Small,5x5,1100,,$12.00
+Archery Stand,2,Uncommon,Small,5x5,600,,$12.00
+Armor Stand,2,Uncommon,Small,5x5,600,,$12.00
+Bread Stand,2,Uncommon,Small,5x5,600,,$12.00
+Grain Stand,2,Uncommon,Small,5x5,600,,$12.00
+Simple Granary,2,Uncommon,Small,5x5,600,,$12.00
+Weapon Stand,2,Uncommon,Small,5x5,600,,$12.00
+Woodworking Stand,2,Uncommon,Small,5x5,600,,$12.00
+Simple Forge,2,Uncommon,Small,5x5,800,,$12.00
+Crop,1,Common,Farming,5x5,,,
+Animal,1,Common,Ranching,5x5,,,
+Grand Temple,4,Epic,Grand,20x20,,,
+Majestic Temple,5,Legendary,Majestic,20x40,,,
+Temple,2,Uncommon,Medium,10x10,,,
+Large Temple,4,Epic,Large,10x20,,,

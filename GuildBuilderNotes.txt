@@ -1,0 +1,55 @@
+Guild Builder
+
+The Guild Builder would be an app(maybe smart contract) that would allow someone to configure (outside of any specific game) a Guild. This guild would consist of a suite of features defined by smart contracts. Ideally, the structure is fairly flexible (e.g. governance can be updated, tokens/roles added
+
+Marketplace for membership? Dapp would have a place for members to trade/sell memberhip tokens
+Get funding? (Maker DAO etc.) - would be able to get enough to start the ball rolling
+
+Each feature must identify the guild that it is operating on
+
+Core Modules
+Guild (Clan, Organization)
+Treasury (Chest, Vault, Hoard)
+Governance (Voting, Government, Authority)
+Membership (Members, Associates, 
+Roles (Assignements, Groups, Access)
+Tokens 
+Agent (Actor, Envoy, Merchant, Trader)
+Distribution (Finance, 
+
+Guild
+ Main app with basic configuration properties
+ Might indicate which modules are active, have hooks into those functions?
+ Name, Administrator, Date created, other notes
+
+Treasury 
+ Wallet that holds all assets (tokens, coins, NFTs(ERC1155,ERC721), etc.)
+ Distribution of funds? (maybe its own module)
+ Builder defines what can be held here? (may not be necessary)
+
+Governance
+ Voting quorum levels
+ Allow different voting options (share/member/token)
+ Dot voting for roles?
+ 
+Membership 
+ Define member count limits
+ Specify member token
+ 
+Roles (Assignements, Groups, Access)
+ Define roles and associated token types
+
+Tokens 
+ Set token prices
+ Token purchase functionality
+ Token redemption functionality
+ Membership tokens - erc20
+ Role tokens - erc20
+ governance tokens erc721?
+ 
+Agent
+ Functionality for broad 'actions' of the guild
+ Purchasing NFTs
+	Different market plugins (GALA, OS, etc.)
+ Inaccessible by individuals
+ Set governance levels

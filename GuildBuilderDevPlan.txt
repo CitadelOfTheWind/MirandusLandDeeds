@@ -1,0 +1,11 @@
+Guild Builder Development Plan
+
+Build 1 full 'Guild' with all the associated modules
+Build a Guild Builder - the Dapp that generates a new 'Guild' based on the custom inputs
+ERC1155 token
+	Can have a type and is associated with a GuildId
+	
+GuildBuilder SC flow
+	Add the new guild (basic profile) to the collection of GB Guilds
+		enabled features (vault, governance, etc.)
+	UI displays modules based on what was chosen, allows the addition of others
